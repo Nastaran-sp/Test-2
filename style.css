@@ -1,0 +1,161 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 120px;
+    background-color: #1F2937;
+}
+
+.logo {
+    color: #f9faf8;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav {
+    display: flex;
+    gap: 12px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 120px;
+    background-color: #1F2937;
+}
+
+img {
+    height: 250px;
+    width: 600px;
+}
+.img {
+    height: 250;
+}
+
+.left {
+    width: 350px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.Atext {
+    font-size: 48px;
+    font-weight : bolder;
+    text-align: left;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Btext {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f9faf8;
+}
+
+.bb {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+
+}
+
+.top {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bolder;
+}
+
+.down {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+
+.im {
+    width: 200px;
+    height: 200px;
+    outline: 2px rgb(72, 145, 173) solid;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.one {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.text {
+    font-size: 18px;
+    width: 200px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.section3 {
+    background-color: #e5e7eb;
+    padding: 50px 200px;
+}
+
+.maint {
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937; 
+}
+
+.bellow {
+    font-weight: bold;
+    color: #1F2937;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.section4 {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+    background-color: rgb(61, 138, 226);
+    padding:0 100px;
+    align-items: center;
+}
+
+.text2 {
+   color: #f9faf8;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.uptt {
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 2px;
+}
+ 
+.bt {
+    border-radius: 5px;
+    border-color: white;
+    background-color: #3882f6;
+    color: aliceblue;
+    padding: 0 22px;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 25px;
+    text-align: center;
+    color: azure;
+}
+
